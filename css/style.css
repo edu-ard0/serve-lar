@@ -79,7 +79,11 @@ h1 span{
   position:relative;
   width:100%;
   height:580px;
+<<<<<<< HEAD
   background:url('https://raw.githubusercontent.com/edu-ard0/serve-lar/bc5ab979a5461b0497ba84e9bbdf2cb20c1317fa/img/capa.png') 0px 0px fixed;
+=======
+  background:url('https://www.camara.leg.br/noticias/912171-projeto-estabelece-cobranca-de-imposto-de-importacao-sobre-remessa-do-exterior-decorrente-de-vendas-pela-internet/#:~:text=O%20Projeto%20de%20Lei%202339,an%C3%A1lise%20na%20C%C3%A2mara%20dos%20Deputados.') 0px 0px fixed;
+>>>>>>> 3f121953995bb4f3609ffd74c6f48fb8d87ac12e
 }
 
 .start-page .opacity{
