@@ -152,7 +152,7 @@ h1 span{
   margin-left: -10px;
   width: 21px;
   height: 29px;
-  background: url(https://raw.githubusercontent.com/edu-ard0/serve-lar/bc5ab979a5461b0497ba84e9bbdf2cb20c1317fa/img/capa.png) no-repeat center center;
+  background: url(img/capa.png) no-repeat center center;
   display: block;
   -webkit-animation: bounce-fade 1.2s infinite; /* Safari 4+ */
   -moz-animation:    bounce-fade 1.2s infinite; /* Fx 5+ */
