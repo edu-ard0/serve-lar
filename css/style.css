@@ -395,7 +395,7 @@ h1 span{
 }
 
 .about-us .column-one .circle-one:hover{
-  background: url(../img/icons/responsive.png) #f2f92e no-repeat center center;
+  background: url(img/LOGO.pngcartao.png) #f2f92e no-repeat center center;
 
 }
 
@@ -412,7 +412,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:8px solid #ebebeb;
-  background: url(file:///C:/Users/serve/Desktop/LOGO.pngcartao.png) #fe0707 no-repeat center center;
+  background: url(img/LOGO.pngcartao.png) #fe0707 no-repeat center center;
   -moz-border-radius:174px;
   -webkit-border-radius:174px;
   border-radius: 174px;
@@ -426,7 +426,7 @@ h1 span{
 }
 
 .about-us .column-two .circle-two:hover{
-  background: url(../img/icons/minimalist.png) #f2f92e no-repeat center center;
+  background: url(img/LOGO.pngcartao.png) #f2f92e no-repeat center center;
 }
 
 
@@ -443,7 +443,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:8px solid #ebebeb;
-  background: url(file:///C:/Users/serve/Desktop/LOGO.pnginst.png) #fe0707 no-repeat center center;
+  background: url(img/LOGO.pnginst.png) #fe0707 no-repeat center center;
   -moz-border-radius:174px;
   -webkit-border-radius:174px;
   border-radius: 174px;
