@@ -381,7 +381,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:8px solid #ebebeb;
-  background: url(img/capa.png) #fe0707 no-repeat center center;
+  background: url('img/capa.png') #fe0707 no-repeat center center;
   -moz-border-radius:174px;
   -webkit-border-radius:174px;
   border-radius: 174px;
@@ -395,7 +395,7 @@ h1 span{
 }
 
 .about-us .column-one .circle-one:hover{
-  background: url(img/LOGO.png) #f2f92e no-repeat center center;
+  background: url('img/LOGO.png') #f2f92e no-repeat center center;
 
 }
 
@@ -412,7 +412,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:8px solid #ebebeb;
-  background: url(img/LOGO.pngcartao.png) #fe0707 no-repeat center center;
+  background: url('img/LOGO.pngcartao.png') #fe0707 no-repeat center center;
   -moz-border-radius:174px;
   -webkit-border-radius:174px;
   border-radius: 174px;
@@ -426,7 +426,7 @@ h1 span{
 }
 
 .about-us .column-two .circle-two:hover{
-  background: url(img/LOGO.pngcartao.png) #f2f92e no-repeat center center;
+  background: url('img/LOGO.pngcartao.png') #f2f92e no-repeat center center;
 }
 
 
@@ -443,7 +443,7 @@ h1 span{
   position:relative;
   margin:0 auto;
   border:8px solid #ebebeb;
-  background: url(img/LOGO.pnginst.png) #fe0707 no-repeat center center;
+  background: url('img/LOGO.pnginst.png') #fe0707 no-repeat center center;
   -moz-border-radius:174px;
   -webkit-border-radius:174px;
   border-radius: 174px;
@@ -457,7 +457,7 @@ h1 span{
 }
 
 .about-us .column-three .circle-three:hover{ 
-  background: url(../img/icons/free.png) #f2f92e no-repeat center center;
+  background: url('../img/icons/free.png') #f2f92e no-repeat center center;
 }
 
 
